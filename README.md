@@ -1,0 +1,1 @@
+# vertiv-smart-aisle-failure-time
